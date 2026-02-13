@@ -1,3 +1,8 @@
-# briarW7.github.io
-[Projects](projects.md)
-Example github.io portfolio website
+# Briar Weston
+
+[Projects](projects.md) |
+
+## About me
+
+I am a fourth year student at the University of Wisconsin Eau Claire, majoring in math with a certificate in computer programming.
+
