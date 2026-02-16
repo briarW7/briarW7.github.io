@@ -1,6 +1,7 @@
 ## Desmos art
 
-[Owl](https://www.desmos.com/calculator/kkpxnhjhro) |
+[Owl](https://www.desmos.com/calculator/kkpxnhjhro)
+
 This piece was a winner of the 2023 official [Desmos art contest](https://www.desmos.com/art)
 ![Owl Desmos graph](owl.png)
 
